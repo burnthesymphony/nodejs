@@ -1,3 +1,3 @@
 exports.worlds=	function(){
-	console.log('Hello dunia');
+	console.log('Hello dunia 2');
 }
